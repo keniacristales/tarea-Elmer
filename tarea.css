@@ -1,0 +1,50 @@
+
+
+body{
+
+	background: pink;
+}
+
+
+h1{
+	color: white;
+	font-size: 35px;
+}
+
+h2{
+	color:purple;
+	font-size:30px;
+}
+
+h3{
+	color:green;
+}
+ 
+h4{
+	color:orange;
+	font-size:25px;
+}
+h5{
+	color:blue;
+	font-size: 27px;
+}
+h6{
+	color:red;
+	font-size: 17px
+}
+p{
+	color:brown;
+}
+
+div{
+	width:100%;
+}
+img{
+	width:200px;
+	height:auto;
+	display:block;
+	border-radius: 15px;
+	/*padding:12px;*/
+	box-shadow:5px 5px 0px #ccc
+	
+}
